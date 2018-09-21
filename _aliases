@@ -1,0 +1,11 @@
+# SOURCEFILE FOR ALIASES
+
+alias zshconfig="vim ~/.zshrc"
+alias cdp="cd ~/Projects"
+alias cdg="cd ~/git"
+alias lsa="ls -lah"
+
+
+
+# Hardika Gutama
+# gutamahardika@protonmail.com
